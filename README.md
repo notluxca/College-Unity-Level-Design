@@ -1,0 +1,2 @@
+# College Unity Level Design
+ This project is a college assignment for the second semester of the Digital Games program at Belas Artes, where its goal is to represent cohesive level design within a scene in-engine.
